@@ -1,6 +1,6 @@
 /*
  *  File Name: dollar.c
- *  Author: Misty Cao78
+ *  Author: Misty Cao
  *  Date: 1/23/2019
  * 
  * Description: Converts US dollars to Britsh Pounds and Japanese JPY.
