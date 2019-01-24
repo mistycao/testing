@@ -3,7 +3,7 @@
  *  Author: Misty Cao78
  *  Date: 1/23/2019
  * 
- * Description: Converts US dollars to Britsh Pounds and Japenses JPY.
+ * Description: Converts US dollars to Britsh Pounds and Japanese JPY.
  * 
  */
 #include <stdio.h>. 
